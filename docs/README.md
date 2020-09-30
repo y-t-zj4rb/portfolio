@@ -1,10 +1,4 @@
----
-title: すごいドキュメント
-meta:
-  - name: description
-    content: すごい説明
-sidebar: auto
----
+
 # Title
 
 ## Heading 1
