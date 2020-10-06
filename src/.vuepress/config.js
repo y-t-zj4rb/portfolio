@@ -9,5 +9,5 @@ module.exports = {
     sidebar: 'auto',
   },
   base:'/yasudataiki/',
-  dest: 'dist'
+  dest: 'docs'
   }
