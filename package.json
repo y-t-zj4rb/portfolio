@@ -20,5 +20,8 @@
   "homepage": "https://github.com/y-t-zj4rb/yasudataiki#readme",
   "devDependencies": {
     "vuepress": "^1.6.0"
+  },
+  "directories": {
+    "doc": "docs"
   }
 }
