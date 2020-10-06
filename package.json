@@ -1,7 +1,7 @@
 {
   "name": "vuepress_yt",
   "version": "1.0.0",
-  "description": "---\r title: すごいドキュメント\r meta:\r   - name: description\r     content: すごい説明\r     sidebar: auto\r ---\r # Title",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "vuepress dev docs",
