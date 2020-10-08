@@ -1,10 +1,10 @@
 module.exports = {
-  title: 'Demo VuePress', 
-  description: 'VuePressデモ' ,
+  title: 'Y.T.Portfolio', 
+  description: '' ,
   themeConfig: {
     nav: [
-      { text: 'ほーむ', link: '/' },
-      { text: 'あばうと', link: '/about/' }
+      { text: 'Home', link: '/' },
+      { text: 'Portfolio', link: '/portfolio/' }
     ],
     sidebar: 'auto',
   },
