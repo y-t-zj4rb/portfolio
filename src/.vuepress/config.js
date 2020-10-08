@@ -1,6 +1,11 @@
 module.exports = {
   title: 'Y.T.Portfolio', 
   description: '' ,
+  locales: {
+    '/': {
+      lang: 'ja'
+    }
+  },
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
