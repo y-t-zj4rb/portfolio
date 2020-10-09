@@ -13,6 +13,6 @@ module.exports = {
     ],
     sidebar: 'auto',
   },
-  base:'/yasudataiki/',
+  base:'/portfolio/',
   dest: 'docs'
   }

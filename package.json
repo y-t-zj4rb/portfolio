@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/y-t-zj4rb/yasudataiki.git"
+    "url": "git+https://github.com/y-t-zj4rb/portfolio.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/y-t-zj4rb/yasudataiki/issues"
+    "url": "https://github.com/y-t-zj4rb/portfolio/issues"
   },
-  "homepage": "https://github.com/y-t-zj4rb/yasudataiki#readme",
+  "homepage": "https://github.com/y-t-zj4rb/portfolio#readme",
   "devDependencies": {
     "vuepress": "^1.6.0"
   },
