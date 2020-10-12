@@ -10,5 +10,5 @@ sidebar: false
 <br>
 導入にあたってNode.js , Vue.jsの学習を伴いました。
 <br>
-<a href="/portfolio">&gt;作品</a>
+<a href="/portfolio/portfolio">&gt;作品</a>
 </div>
