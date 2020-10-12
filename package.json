@@ -1,7 +1,7 @@
 {
   "name": "vuepress_yt",
   "version": "1.0.0",
-  "description": "",
+  "description": "portfolio by YT",
   "main": "index.js",
   "scripts": {
     "dev": "vuepress dev src",

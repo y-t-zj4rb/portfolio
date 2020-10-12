@@ -94,7 +94,7 @@ CMSの仕様で`script`タグの使用できない範囲があるため、`CSS`�
 ---
 ## 5.情報サイト
 
-::: warning
+::: warning ※
 クライアント非公開のため多くの情報を伏せています。
 :::
 
@@ -114,15 +114,25 @@ CMSの仕様で`script`タグの使用できない範囲があるため、`CSS`�
 #### 技術面
 APIの取得、フィルタリング・ソート機能等は`Vue.js`を使用しています。
 
-<div style="text-align:center;margin:20px 0;border:1px solid #ddd;"><img src="../.vuepress/public/site2.png" height="500"></div>
+<div style="text-align:center;margin:20px 0;border:1px solid #ddd;"><img src="../.vuepress/public/site2.png" height="400"></div>
 
 
 <div style="display:flex;justify-content:space-between;">
     <img src="../.vuepress/public/site3.png" height="550">
     <img src="../.vuepress/public/site4.png" height="550">
 </div>
+
+
 レスポンシブ対応
 
 
+
 <div style="text-align:center;margin:20px 0;border:1px solid #ddd;"><img src="../.vuepress/public/microcms.png" height="400"></div>
-ヘッドレスCMSを採用しており、部分的にCMSとして更新作業が出来ます。そのためコーディングの知識が無い方でもブログのように更新が行えます。
+
+ヘッドレスCMS(microCMS)を採用しており、部分的にCMSとして更新作業が出来ます。そのためコーディングの知識が無い方でもブログのように更新が行えます。
+
+
+
+::: tip SEOについて
+とある関連キーワード(1語)のGoogle検索結果において1番目に表示されます！
+:::
