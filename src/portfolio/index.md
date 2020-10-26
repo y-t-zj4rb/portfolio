@@ -1,10 +1,45 @@
 # Portfolio
 
 ---
+## コーポレートサイト(ダミー)
 
-## 1.情報ページ
+<div class="img-single">
+    <img src="../.vuepress/public/ffc3.png">
+</div>
+<div class="img-flex">
+    <img src="../.vuepress/public/ffc2.png">
+</div>
 
-<div style="display:flex;justify-content:space-between;">
+<div class="btn-wrapper">
+    <a class="btn" href="https://y-t-zj4rb.github.io/fictious_foods_company/" target="_blank">DEMOページ</a>
+</div>
+
+##### 公開日 2020.10.25
+
+#### 担当
+デザイン・コーディング
+
+#### ページの意図
+架空のコーポレートサイトです。飲食業界をターゲットとしたBtoBのサービスを主とする企業という設定です。
+顧客によって多様な要望・ケースが発生する想定の為、入口からハードルを下げ、スッキリとしたシンプルなデザインを意識しました。
+
+[DEMOページ](https://y-t-zj4rb.github.io/fictious_foods_company/)
+
+#### 技術面
+
+ヘッドレスCMSを組み込んでいる為、サイトのオーナーや管理者が手軽に『事例』や『お知らせ』部分を更新できます。
+
+<div class="img-single">
+    <img src="../.vuepress/public/ffc4.png">
+</div>
+
+
+
+---
+
+## 情報ページ
+
+<div class="img-flex">
     <img src="../.vuepress/public/ganbarou3.png" height="550">
     <img src="../.vuepress/public/ganbarou4.png" height="550">
 </div>
@@ -19,14 +54,14 @@
 
 #### 技術面
 ニュースアプリのようなフリックでの遷移を実現するため`swiper.js`というライブラリを使用しています。
-手動での更新を減らすため、日付ごとの新着作品ページへのリンクは自動で取得するようにしています。(画像一枚目 上部)
+手動での更新を減らすため、日付ごとの新着作品ページへのリンクはjavascriptで自動で取得するようにしています。(画像一枚目 上部)
 
 
 ---
-## 2.LP
+## LP
 
-<div style="text-align:center;margin:20px 0;border:1px solid #ddd;"><img src="../.vuepress/public/kedama2.png" height="500"></div>
-<div style="text-align:center;margin:20px 0;border:1px solid #ddd;"><img src="../.vuepress/public/kedama1.png" height="500"></div>
+<div class="img-single"><img src="../.vuepress/public/kedama2.png" height="500"></div>
+<div class="img-single"><img src="../.vuepress/public/kedama1.png" height="500"></div>
 
 ##### 公開日 2020.7.21
 
@@ -38,7 +73,7 @@
 スクロール時、PC表示左側のフィギュア紹介部分は固定、右側のみ下に流れていきます。
 
 
-<div style="display:flex;justify-content:space-between;">
+<div class="img-flex">
     <img src="../.vuepress/public/kedama3.png" height="550">
     <img src="../.vuepress/public/kedama4.png" height="550">
 </div>
@@ -49,9 +84,9 @@
 
 
 ---
-## 3.アーカイブ
+## アーカイブ
 
-<div style="display:flex;justify-content:space-between;">
+<div class="img-flex">
     <img src="../.vuepress/public/sns1.png" height="550">
     <img src="../.vuepress/public/sns2.png" height="550">
 </div>
@@ -70,9 +105,9 @@ Twitterで活動している作家の特集だったため色遣いはそのあ�
 
 
 ---
-## 4.通販ページ内
+## 通販ページ内
 
-<div style="display:flex;justify-content:space-between;">
+<div class="img-flex">
     <img src="../.vuepress/public/summer3.png" height="550">
     <img src="../.vuepress/public/summer4.png" height="550">
 </div>
@@ -92,13 +127,13 @@ CMSの仕様で`script`タグの使用できない範囲があるため、`CSS`�
 
 
 ---
-## 5.情報サイト
+## 情報サイト
 
 ::: warning ※
 クライアント非公開のため多くの情報を伏せています。
 :::
 
-<div style="text-align:center;margin:20px 0;border:1px solid #ddd;"><img src="../.vuepress/public/site1.png" height="600"></div>
+<div class="img-single"><img src="../.vuepress/public/site1.png" height="600"></div>
 
 
 
@@ -114,10 +149,10 @@ CMSの仕様で`script`タグの使用できない範囲があるため、`CSS`�
 #### 技術面
 APIの取得、フィルタリング・ソート機能等は`Vue.js`を使用しています。
 
-<div style="text-align:center;margin:20px 0;border:1px solid #ddd;"><img src="../.vuepress/public/site2.png" height="400"></div>
+<div class="img-single"><img src="../.vuepress/public/site2.png" height="400"></div>
 
 
-<div style="display:flex;justify-content:space-between;">
+<div class="img-flex">
     <img src="../.vuepress/public/site3.png" height="550">
     <img src="../.vuepress/public/site4.png" height="550">
 </div>
@@ -127,7 +162,7 @@ APIの取得、フィルタリング・ソート機能等は`Vue.js`を使用し
 
 
 
-<div style="text-align:center;margin:20px 0;border:1px solid #ddd;"><img src="../.vuepress/public/microcms.png" height="400"></div>
+<div class="img-single"><img src="../.vuepress/public/microcms.png" height="400"></div>
 
 ヘッドレスCMS(microCMS)を採用しており、部分的にCMSとして更新作業が出来ます。そのためコーディングの知識が無い方でもブログのように更新が行えます。
 

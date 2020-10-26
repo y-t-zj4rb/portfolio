@@ -7,8 +7,18 @@ sidebar: false
 
 <div style="text-align: center;margin:40px 0;">
 このサイトはVuepressを用いて作られました。
-<br>
-導入にあたってNode.js , Vue.jsの学習を伴いました。
-<br>
-<a class="button" href="/portfolio/portfolio">&gt;作品</a>
 </div>
+<div class="btn-wrapper">
+    <a class="btn" href="/portfolio/portfolio">作品</a>
+</div>
+
+### 言語
+HTML5 , CSS3 , JavaScript
+
+(jQuery , Vue.js , Nuxt.js , Node.js)
+
+### ツール
+Photoshop , Illustrator , Figma , Git
+
+### 実務以外で…
+PHP , Blender , After Effects , Premiere Pro , Clip Studio
