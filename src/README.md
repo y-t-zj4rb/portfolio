@@ -15,7 +15,7 @@ sidebar: false
 ### 言語
 HTML5 , CSS3 , JavaScript
 
-(jQuery , Vue.js , Nuxt.js , Node.js)
+(jQuery , Vue.js , Nuxt.js , Node.js , API)
 
 ### ツール
 Photoshop , Illustrator , Figma , Git
